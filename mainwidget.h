@@ -5,8 +5,7 @@
 #include "tab1socketclient.h"
 #include "tab2cctvwidget.h"
 #include "tab3controlpannel.h"
-#include "tab4chartplot.h"
-#include "tab5database.h"
+
 
 
 QT_BEGIN_NAMESPACE
